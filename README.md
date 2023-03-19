@@ -1,4 +1,4 @@
-# Rails Create, Index, and Show Lab
+
 
 ## Learning Goals
 
@@ -28,7 +28,8 @@ Using `--prefix client` will run the npm command within the `client` directory.
 To set up your backend, run:
 
 ```console
-$ bundle install
+$ bundle instalomrades
+l
 ```
 
 To see how the React application and Rails API are interacting, you can run the
